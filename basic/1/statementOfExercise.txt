@@ -1,0 +1,3 @@
+Create a new variable called “speed” and set it to 5.0f
+
+Print its value by console
