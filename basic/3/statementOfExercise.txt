@@ -1,0 +1,2 @@
+Create two private string variables and concatenate them.
+Display the result in the console.
