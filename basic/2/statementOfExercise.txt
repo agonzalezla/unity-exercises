@@ -1,0 +1,1 @@
+Create two public variables of float type to display by console their values added, subtracted, multiplied and divided.
