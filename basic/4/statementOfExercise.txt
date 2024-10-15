@@ -1,0 +1,5 @@
+Create a private boolean variable and two public int variables, you can give the int variables any values you want. 
+
+If when running the game, the sum of the variables that you have created of type int is even, the boolean variable must be true.
+
+Show the value of the int variables by console and the result of the boolean variable.
