@@ -1,0 +1,3 @@
+Create a script that writes by console if today is Monday, and if it is not Monday that writes the day of the week it is.
+
+Idea: You can make the query as a question: Is today Monday?
