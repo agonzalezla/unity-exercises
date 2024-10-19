@@ -18,3 +18,27 @@ This repository contains multilevel exercises to learn the “UNITY” game deve
 ## How to perform the exercises
 
 All exercises have a file “statementOfExercise.txt” containing the statement of the problem to be solved. To solve it you have to create a new project in unity and do the following instructions. If you have doubts or you don't know how to solve it, you can import the code with the solved problem in the “codeExercise” folder inside each exercise.
+
+
+### FAQs
+
+* What version of Unity has been used in the development of the exercises?
+
+~~~
+Version “2022.3.21f1” has been used for basic exercises 1 to 5. Version 6 “6000.0.23f1” has been used from basic exercise 6 onwards. 
+~~~
+
+* Web site with csharp information
+
+~~~
+https://learn.microsoft.com/es-es/dotnet/csharp/
+~~~
+
+* Web sites with Unity engine information
+
+~~~
+https://docs.unity.com/
+https://docs.unity3d.com/Manual/index.html
+https://docs.unity3d.com/ScriptReference/index.html
+https://unity.com/es/how-to
+~~~
