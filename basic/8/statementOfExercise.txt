@@ -1,0 +1,1 @@
+Create a script that prints by console on each frame, the elapsed time since the previous frame.
