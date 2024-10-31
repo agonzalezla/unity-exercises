@@ -1,0 +1,3 @@
+Generates a random number between 0 and 100, this number will be the probability.
+
+Every 10 seconds it generates another random number, if the number is equal or greater than the probability it prints by console “Success”, if it is less than the probability it prints “Failure”.
