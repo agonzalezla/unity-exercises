@@ -1,0 +1,1 @@
+Print by console the time elapsed since the start of the execution every 100 frames.
