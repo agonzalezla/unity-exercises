@@ -1,0 +1,3 @@
+Make a cube scale up if we hold down the “space bar” and scale down if we don't press it.
+
+The minimum scale has to be one on each axis.
