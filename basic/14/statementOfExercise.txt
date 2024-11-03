@@ -1,0 +1,3 @@
+Creates a cube that moves continuously between the point “x=0” and “x=10”.
+
+The cube should be green and have a scale of “x=2, y=2, z=2”.
