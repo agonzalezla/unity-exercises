@@ -1,0 +1,1 @@
+Creates a character controller that moves a cube on the “X” and “Z” axes by pressing the left and right arrow keys.
