@@ -1,0 +1,1 @@
+Creates a sphere that is destroyed 2 seconds after clicking on it
