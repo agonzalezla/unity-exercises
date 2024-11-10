@@ -1,0 +1,1 @@
+Creates a sphere that is destroyed by clicking on it
