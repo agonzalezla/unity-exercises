@@ -4,7 +4,7 @@
 
 # PROGRAMMING EXERCISES IN “C#” TO LEARN “UNITY”.
 
-This repository contains multilevel exercises to learn the “UNITY” game development engine. The exercises are separated into three levels: Basic, Intermediate and Advanced.
+This repository contains exercises for beginners who want to learn the “UNITY” game development engine. The exercises are divided into two levels: Basic and Intermediate. There are no advanced exercises in this repository.
 
 ## Tools to perform the exercises
 
@@ -43,4 +43,17 @@ https://docs.unity.com/
 https://docs.unity3d.com/Manual/index.html
 https://docs.unity3d.com/ScriptReference/index.html
 https://unity.com/es/how-to
+~~~
+
+* Data persistence with sqlite
+
+~~~
+https://www.mongodb.com/developer/code-examples/csharp/saving-data-in-unity3d-using-sqlite/
+~~~
+
+* Download sqlite and sqlitebrowser
+
+~~~
+https://www.sqlite.org/download.html
+https://sqlitebrowser.org/
 ~~~
