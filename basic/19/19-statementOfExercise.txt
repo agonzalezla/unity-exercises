@@ -1,0 +1,1 @@
+Creates a cube that deactivates between 2 and 4 seconds after clicking on it.
