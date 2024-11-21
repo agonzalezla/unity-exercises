@@ -1,0 +1,1 @@
+It creates a line of ten cubes on the “X” axis by means of a loop, without using prefabs.

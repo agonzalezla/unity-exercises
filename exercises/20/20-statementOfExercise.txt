@@ -1,0 +1,1 @@
+Create a cube that changes its name to indicate how many times it has been clicked.
