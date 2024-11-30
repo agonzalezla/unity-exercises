@@ -27,7 +27,8 @@ All exercises have a file “statementOfExercise.txt” containing the statement
 ~~~
 Version “2022.3.21f1” has been used for basic exercises 1 to 5. 
 Version 6 “6000.0.23f1” has been used for basic exercises 6 to 10.
-Version 6 “6000.0.25f1” has been used from basic exercise 11 onwards.
+Version 6 “6000.0.25f1” has been used from basic exercise 11 to 22.
+Version 6 “6000.0.27f1” has been used from basic exercise 23 onwards.
 ~~~
 
 * Web site with csharp information

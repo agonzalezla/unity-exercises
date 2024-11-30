@@ -1,0 +1,1 @@
+Instantiate a vertical cube wall (10 x 10) using prefab
