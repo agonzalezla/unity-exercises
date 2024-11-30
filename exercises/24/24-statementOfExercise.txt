@@ -1,0 +1,3 @@
+Instantiate a cube made of cubes using a prefab.
+
+The cube will consist of 3 cubes in height, 3 cubes in width and 3 cubes in depth.
